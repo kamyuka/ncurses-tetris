@@ -2,7 +2,7 @@
  Tetris running on a terminal using ncurses
  
 
- 概要<>
+ 概要  
  このアプリはncursesを用いてターミナル上でTETRISを実行するものである.
 
 
